@@ -1,1 +1,1 @@
-here i learned data cleaning and pre processing
+week 1 here i learned data cleaning and pre processing.
