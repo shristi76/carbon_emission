@@ -35,14 +35,7 @@ This project explores the patterns and relationships in global CO₂ emissions a
 * Countries like the **United Arab Emirates (ARE)** significantly deviate from global trends.
 * These outliers must be considered carefully during modeling and data preparation.
 
-## 🧰 Modeling Recommendation
 
-Due to the presence of **nonlinear relationships** and **country-based clustering**, we recommend using models capable of handling complexity, such as:
-
-* **Random Forests**
-* **Gradient Boosting Machines (GBM)**
-
-Models like **Linear Regression** are not ideal, given their limitations with nonlinear patterns and group-specific behaviors.
 
 ## 📅 Next Steps
 
