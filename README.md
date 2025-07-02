@@ -5,6 +5,10 @@ google colab link  https://colab.research.google.com/drive/1FG6msfo6e_9gbklHBHnp
 week 2 data exploration and visualization.
 
 google colab link https://colab.research.google.com/drive/1q5F-PxHhxInvw44CRQLnUREL8AkWbgth?usp=sharing
+
+
+week 3 model building
+google colab link  https://colab.research.google.com/drive/143Cats6-h3FfoXGcMQpoEVKXMal16ebS?usp=sharing
 # CO₂ Emission Prediction Project
 
 ## 🌍 Overview
